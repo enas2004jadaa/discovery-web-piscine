@@ -1,0 +1,16 @@
+Git Workflow
+
+1. Edit:
+   Created and edited README.md using nano.
+
+2. Add:
+   git add README.md
+
+3. Commit:
+   git commit -m "Add project README"
+
+4. Push:
+   git push origin main
+
+The workflow is:
+Edit -> Add -> Commit -> Push

@@ -1,0 +1,5 @@
+commit f73a6d11956e0508535e2584fb051b919e07ab76
+Author: Enas <enasjadaa70@gmail.com>
+Date:   Sat Oct 3 16:21:41 2026 +0300
+
+    add hello.txt

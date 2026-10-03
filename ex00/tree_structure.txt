@@ -1,0 +1,41 @@
+.:
+total 20
+drwxrwxr-x 5 enas enas 4096 Oct  3 14:51 .
+drwxrwxr-x 3 enas enas 4096 Oct  3 14:42 ..
+drwxrwxr-x 2 enas enas 4096 Oct  3 14:43 archives
+drwxrwxr-x 3 enas enas 4096 Oct  3 14:45 projects
+drwxrwxr-x 2 enas enas 4096 Oct  3 14:43 tools
+-rw-rw-r-- 1 enas enas    0 Oct  3 14:51 tree_structure.txt
+
+./archives:
+total 8
+drwxrwxr-x 2 enas enas 4096 Oct  3 14:43 .
+drwxrwxr-x 5 enas enas 4096 Oct  3 14:51 ..
+
+./projects:
+total 12
+drwxrwxr-x 3 enas enas 4096 Oct  3 14:45 .
+drwxrwxr-x 5 enas enas 4096 Oct  3 14:51 ..
+drwxrwxr-x 4 enas enas 4096 Oct  3 14:45 web
+
+./projects/web:
+total 16
+drwxrwxr-x 4 enas enas 4096 Oct  3 14:45 .
+drwxrwxr-x 3 enas enas 4096 Oct  3 14:45 ..
+drwxrwxr-x 2 enas enas 4096 Oct  3 14:45 backend
+drwxrwxr-x 2 enas enas 4096 Oct  3 14:45 frontend
+
+./projects/web/backend:
+total 8
+drwxrwxr-x 2 enas enas 4096 Oct  3 14:45 .
+drwxrwxr-x 4 enas enas 4096 Oct  3 14:45 ..
+
+./projects/web/frontend:
+total 8
+drwxrwxr-x 2 enas enas 4096 Oct  3 14:45 .
+drwxrwxr-x 4 enas enas 4096 Oct  3 14:45 ..
+
+./tools:
+total 8
+drwxrwxr-x 2 enas enas 4096 Oct  3 14:43 .
+drwxrwxr-x 5 enas enas 4096 Oct  3 14:51 ..
